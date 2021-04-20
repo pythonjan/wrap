@@ -6,7 +6,6 @@ import logging
 import html
 import sys
 import os
-import json
 
 from time import sleep
 from datetime import datetime
