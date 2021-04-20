@@ -19,7 +19,7 @@ credentials["channel"] = os.environ.get('CHANNEL')
 
 token = credentials["token"]
 channel = credentials["channel"]
-sub = "dogpictures"
+sub = "memes"
 start_time = datetime.utcnow().timestamp()
 
 ch = logging.StreamHandler(sys.stdout)
